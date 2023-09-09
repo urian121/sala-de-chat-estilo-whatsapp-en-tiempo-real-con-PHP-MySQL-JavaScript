@@ -348,6 +348,9 @@
         const scrolltoh = $('#conversation')[0].scrollHeight;
         $('#conversation').scrollTop(scrolltoh);
 
+        // Restablecer la variable
+        enviandoImagen = false;
+
         // Restablecer el formulario
         form.reset();
       } catch (error) {
