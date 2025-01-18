@@ -1,6 +1,6 @@
 ## Sala de chat con PHP , MySQL y JavaScript
 
-###### Ejemplo practico para aprender a desarrollar una sala de chat estilo whatsapp usando la magia de PHP, MySQL y JavaScript.
+Desarrolla una sala de chat en tiempo real al estilo WhatsApp utilizando PHP, MySQL y JavaScript. Los usuarios pueden intercambiar mensajes y archivos de manera rápida, segura y eficiente, ofreciendo una experiencia de comunicación fluida y dinámica.
 
 ![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/sala%20de%20chat%20con%20php%20-%20mysql%20urian%20viera.png)
 
